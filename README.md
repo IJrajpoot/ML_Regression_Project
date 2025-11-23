@@ -13,7 +13,7 @@ The goal is to analyze the performance, numerical stability, convergence behavio
 | Detail | Value |
 | :--- | :--- |
 | **Course** | Mathematical Foundation for AI |
-| **Due Date** | November 15, 2025 |
+| **Due Date** | November 23, 2025 |
 | **Dataset Used** | `sklearn.datasets.load_diabetes()` |
 
 ## Group Members
